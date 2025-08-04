@@ -7,23 +7,23 @@ Desenvolvedor de software com experiência em soluções web full stack, atuando
 Meu trabalho é orientado por boas práticas como: SOLID e Design Patterns, utilizando Docker para containerização e Git para um controle de versão eficiente. Estou preparado para colaborar em equipes multidisciplinares e agregar valor em todas as etapas do desenvolvimento.
 
 <p align="left">
-       <a href="https://www.linkedin.com/in/giancarlo-brandalise">
-        <img 
+    <a href="https://www.linkedin.com/in/giancarlo-brandalise">
+        <img 
             alt="Link para o LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
             src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-       <a href="https://giancarlo-folio-showcase.lovable.app">
-        <img 
+            />
+    </a> 
+    <a href="https://giancarlo-folio-showcase.lovable.app"> 
+        <img 
             alt="Link para o Portfólio" 
             title="Acesse meu Portfólio" 
             src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=folder&logoColor=white"
-        />
-    
+            />
+    </a>
 </p>
 
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
