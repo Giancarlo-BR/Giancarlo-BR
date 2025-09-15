@@ -60,12 +60,13 @@ Meu trabalho é orientado por boas práticas como: SOLID e Design Patterns, util
       align="left" 
       alt="Top Langs" 
       height="190" 
-      src="https://github-readme-stats-coral-nu-23.vercel.app/api/top-langs/?username=Giancarlo-BR&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giancarlo-BR&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8" 
   />
 
 </p>
 
 
-<img src="https://raw.githubusercontent.com/Giancarlo-BR/Giancarlo-BR/main/assets/7br-q4.gif" width="320" alt="Developer GIF">
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/Giancarlo-BR/Giancarlo-BR/main/assets/7br-q4.gif" width="320" alt="Developer GIF">
 
