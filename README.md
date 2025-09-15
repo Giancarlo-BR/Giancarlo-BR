@@ -53,7 +53,7 @@ Meu trabalho é orientado por boas práticas como: SOLID e Design Patterns, util
     alt="GitHub Stats" 
     height="190" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-conic-nu-23.vercel.app/api?username=Giancarlo-BR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true"
+    src="https://github-readme-stats-coral-nu-23.vercel.app/api?username=Giancarlo-BR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true"
       />
 
 <img 
