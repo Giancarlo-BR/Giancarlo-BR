@@ -67,6 +67,7 @@ Meu trabalho é orientado por boas práticas como: SOLID e Design Patterns, util
 
 
 <br clear="both">
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Giancarlo-BR/Giancarlo-BR/main/assets/7br-q4.gif" width="320" alt="Developer GIF">
+<img src="https://raw.githubusercontent.com/Giancarlo-BR/Giancarlo-BR/main/7br-q4.gif" width="320" alt="Developer GIF">
 
