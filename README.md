@@ -2,9 +2,9 @@
 
 **`Desenvolvedor de Software`**
 
-Desenvolvedor de software com experiência em soluções web full stack, atuando com Java e Spring Boot no back-end e React com JavaScript no front-end. Atualmente, como estudante de Sistemas de Informação na PUCRS, estou em busca de uma oportunidade onde eu possa colocar em prática o que venho aprendendo e continuar evoluindo, participando de projetos que me desafiem a crescer como desenvolvedor.
+Desenvolvedor full stack com proficiência em tecnologias back-end, como Java e Spring Boot, e em soluções front-end e back-end com React, Next.js e Node.js. Cursando Sistemas de Informação na PUCRS, busco uma oportunidade em uma empresa já consolidada, onde eu possa aplicar minhas habilidades no ambiente de trabalho e contribuir para as metas da equipe, participando de projetos que me permitam aprimorar continuamente minhas competências técnicas.
 
-Meu trabalho é orientado por boas práticas como: SOLID e Design Patterns, utilizando Docker para containerização e Git para um controle de versão eficiente. Estou preparado para colaborar em equipes multidisciplinares e agregar valor em todas as etapas do desenvolvimento.
+Meu processo de desenvolvimento é pautado por boas práticas como SOLID para garantir um código manutenível e escalável. Estruturo aplicações CRUD seguindo o padrão MVC e os princípios RESTful para a criação de APIs. Adicionalmente, utilizo Docker para containerização e Git para um controle de versão eficiente, o que me permite colaborar de forma ágil em equipes multidisciplinares e agregar valor em todas as etapas do projeto.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/giancarlo-brandalise">
